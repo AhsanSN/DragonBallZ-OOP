@@ -3,7 +3,7 @@ This reposotory contains my final project for the course Object Oriented Program
 
 # Screenshots
 
-![image](/Screenshot/m-Screenshot (1).png);
+![image](Screenshot/m-Screenshot (1).png);
 
 ![image](/Screenshot/m-Screenshot (2).png)
 
