@@ -3,4 +3,18 @@ This reposotory contains my final project for the course Object Oriented Program
 
 # Screenshots
 
-![image](https://cloud.githubusercontent.com/assets/9053854/24495974/fbf2e0cc-1547-11e7-846c-25b5fac7f6b1.png)
+![image](/screenshot/m-Screenshot (1).png);
+
+![image](/screenshot/m-Screenshot (2).png)
+
+![image](/screenshot/m-Screenshot (3).png)
+
+![image](/screenshot/m-Screenshot (4).png)
+
+![image](/screenshot/m-Screenshot (5).png)
+
+![image](/screenshot/m-Screenshot (6).png)
+
+![image](/screenshot/m-Screenshot (7).png)
+
+![image](/screenshot/m-Screenshot (8).png)
