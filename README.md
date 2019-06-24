@@ -3,18 +3,18 @@ This reposotory contains my final project for the course Object Oriented Program
 
 # Screenshots
 
-![image](/screenshot/m-Screenshot (1).png);
+![image](/Screenshot/m-Screenshot (1).png);
 
-![image](/screenshot/m-Screenshot (2).png)
+![image](/Screenshot/m-Screenshot (2).png)
 
-![image](/screenshot/m-Screenshot (3).png)
+![image](/Screenshot/m-Screenshot (3).png)
 
-![image](/screenshot/m-Screenshot (4).png)
+![image](/Screenshot/m-Screenshot (4).png)
 
-![image](/screenshot/m-Screenshot (5).png)
+![image](/Screenshot/m-Screenshot (5).png)
 
-![image](/screenshot/m-Screenshot (6).png)
+![image](/Screenshot/m-Screenshot (6).png)
 
-![image](/screenshot/m-Screenshot (7).png)
+![image](/Screenshot/m-Screenshot (7).png)
 
-![image](/screenshot/m-Screenshot (8).png)
+![image](/Screenshot/m-Screenshot (8).png)
